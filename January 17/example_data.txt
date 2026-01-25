@@ -1,0 +1,6 @@
+5
+bird 10 a b c d e f g h i j
+dodo_bird 10 a b c d e f g h i k
+coyote z y x
+fox z w t
+cheetah z q r
