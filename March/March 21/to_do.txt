@@ -1,0 +1,4 @@
+https://usaco.org/index.php?page=viewproblem2&cpid=1035 (Casework)
+https://usaco.org/index.php?page=viewproblem2&cpid=1467 (Introduction to Greedy Algorithms)
+https://usaco.org/index.php?page=viewproblem2&cpid=916 (Introduction to Graphs)
+UC Merced Application

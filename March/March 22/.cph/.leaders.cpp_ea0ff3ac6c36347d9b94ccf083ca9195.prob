@@ -1,0 +1,1 @@
+{"name":"Local: leaders","url":"/Users/alternateaccount/Documents/USACO/March/March 22/leaders.cpp","tests":[{"id":1774238812004,"input":"4\nGHHG\n2 4 3 4","output":"1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/alternateaccount/Documents/USACO/March/March 22/leaders.cpp","group":"local","local":true}

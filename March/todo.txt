@@ -1,4 +1,0 @@
-1. Check if we've got the bell for the farm project.
-2. Get the language project closer to completion. (done?)
-3. Get 3 USACO problems done by next week. (done?)
-4. Register for the YoungWonks coding challenges (done?)
